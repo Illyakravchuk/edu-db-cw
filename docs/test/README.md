@@ -1,61 +1,39 @@
 # Тестування працездатності системи
-
-Використовувався Postman 
-
-
-## Перший GET запит (порожня таблиця) 
+ 
+## Отримання всієї таблиці users
 
 <p align="center">
-  <img src="./pic1.png">
+  <img src="./Screenshot_1.png">
+</p>
+
+## Отримання окремого члена таблиці users
+
+<p align="center">
+  <img src="./Screenshot_2.png">
 </p>
 
 
-## GET запит по неіснуючому id
+## Створення нового члена таблиці users
 
 <p align="center">
-  <img src="./pic2.png">
+  <img src="./Screenshot_3.png">
+</p>
+
+## Редагування члена таблиці users
+
+<p align="center">
+  <img src="./Screenshot_4.png">
+</p>
+
+## Видалення члена таблиці users
+
+<p align="center">
+  <img src="./Screenshot_5.png">
 </p>
 
 
-## POST запит - спроба додавання рядка з недостатньою кількістю полів
-<p align="center">
-  <img src="./pic3.png">
-</p>
-
-
-## POST запит - створення нового рядка
+## Фінальний результат
 
 <p align="center">
-  <img src="./pic4.png">
+  <img src="./Screenshot_6.png">
 </p>
-
-
-## PUT запит - зміна поля певного рядка
-
-<p align="center">
-  <img src="./pic5.png">
-</p>
-
-
-## DELETE запит - спроба видалення неіснуючого рядка
-
-<p align="center">
-  <img src="./pic6.png">
-</p>
-
-
-## DELETE запит - успішне видалення рядка
-
-<p align="center">
-  <img src="./pic7.png">
-</p>
-
-
-## GET запит - підтвердження видалення рядка
-
-<p align="center">
-  <img src="./pic8.png">
-</p>
-
-
-
